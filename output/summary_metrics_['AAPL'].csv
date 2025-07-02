@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+['AAPL'],Test RMSE,9.6677
+['AAPL'],Test MAE,9.2998
+['AAPL'],Test Directional Accuracy,0.6122

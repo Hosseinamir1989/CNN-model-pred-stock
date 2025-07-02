@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+['BRK-B'],Test RMSE,6.9205
+['BRK-B'],Test MAE,4.9847
+['BRK-B'],Test Directional Accuracy,0.4898
