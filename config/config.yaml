@@ -1,0 +1,42 @@
+tickers:
+  #- DAX
+  #- BRK-B
+  #- AAPL
+  #- AMZN
+  #- NVDA
+  #- GOOGL
+  #- DTE
+  #- VOW3
+  #- SAP
+  #- BAS
+  - SIE
+
+paths:
+  csv_folder: stock_data_histogram
+ 
+
+  model_folder_lstm: lstm_models
+  model_folder_cnn: cnn_models
+  result_file_lstm: lstm_results.csv
+  result_file_cnn: cnn_results.csv
+
+
+technical_indicators:
+  vol_window: 20
+  mom_window: 20
+  ma_window: 20
+  bb_window: 20
+  bb_std: 2
+
+train_test_split:
+  test_size: 0.4
+
+
+cnn:
+  window_size: 10
+  epochs: 60
+  batch_size: 16
+  learning_rate: 0.001
+
+
+  
