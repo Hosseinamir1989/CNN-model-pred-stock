@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+SIE,Test RMSE,4.0071
+SIE,Test MAE,3.3830
+SIE,Test Directional Accuracy,0.5102

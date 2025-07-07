@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+VOW3,Test RMSE,6.0356
+VOW3,Test MAE,5.6832
+VOW3,Test Directional Accuracy,0.5306

@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+SAP,Test RMSE,4.1618
+SAP,Test MAE,3.2625
+SAP,Test Directional Accuracy,0.5714

@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+['NVDA'],Test RMSE,5.0618
+['NVDA'],Test MAE,4.1739
+['NVDA'],Test Directional Accuracy,0.4694

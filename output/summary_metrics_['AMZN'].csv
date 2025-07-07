@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+['AMZN'],Test RMSE,4.5081
+['AMZN'],Test MAE,3.6719
+['AMZN'],Test Directional Accuracy,0.3878

@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+DTE,Test RMSE,0.9385
+DTE,Test MAE,0.8568
+DTE,Test Directional Accuracy,0.5918

@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+['GOOGL'],Test RMSE,4.1593
+['GOOGL'],Test MAE,3.1035
+['GOOGL'],Test Directional Accuracy,0.5510

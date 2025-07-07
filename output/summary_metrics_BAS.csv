@@ -1,0 +1,4 @@
+Ticker,Metric,Value
+BAS,Test RMSE,0.8965
+BAS,Test MAE,0.7488
+BAS,Test Directional Accuracy,0.4286
